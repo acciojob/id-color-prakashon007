@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 
-.y{
+#yellow{
 	background:yellow;
 	border:green  solid 1px;
 }
-.r{
+#red{
 	background:red;
 	border: black solid 1px;
 }
-.g{
+#green{
 	background:green;
 	border:yellow solid 1px;
 }
